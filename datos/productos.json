@@ -1,0 +1,18 @@
+[
+    {
+        "codigo": "1",
+        "nombre": "Humitas",
+        "categoria": "Comida",
+        "precio": 1.5,
+        "disponible": true,
+        "stock": 15
+    },
+    {
+        "codigo": "2",
+        "nombre": "Jugo de tomate",
+        "categoria": "Bebida",
+        "precio": 1.5,
+        "disponible": true,
+        "stock": 20
+    }
+]

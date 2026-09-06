@@ -1,0 +1,12 @@
+[
+    {
+        "identificacion": "1101234567",
+        "nombre": "Danny Betancourt",
+        "correo": "danny@correo.com"
+    },
+    {
+        "identificacion": "1107654321",
+        "nombre": "Carlos Pérez",
+        "correo": "carlos@correo.com"
+    }
+]
